@@ -1,4 +1,3 @@
-# Adidas-Sales-Performance
 # Adidas Sales Performance Dashboard – Power BI
 
 This project presents a dynamic and interactive Power BI dashboard analyzing Adidas sales performance across various regions, product categories, and time periods.
